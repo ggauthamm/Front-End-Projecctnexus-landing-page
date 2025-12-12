@@ -1,12 +1,5 @@
 # Nexus - Modern SaaS Landing Page
 
-A stunning, contest-winning frontend project built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.
-
-![Next.js](https://img.shields.io/badge/Next.js-16-black)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-38bdf8)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-12-purple)
-
 ## Live Demo
 
 [View Live Demo](#) *(Deploy to Vercel/Netlify to get URL)*
