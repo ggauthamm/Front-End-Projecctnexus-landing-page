@@ -7,19 +7,19 @@ A stunning, contest-winning frontend project built with Next.js, TypeScript, Tai
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-38bdf8)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-12-purple)
 
-## 🚀 Live Demo
+## Live Demo
 
 [View Live Demo](#) *(Deploy to Vercel/Netlify to get URL)*
 
-## 📋 Features Implemented
+## Features Implemented
 
-### 🎨 Design & Aesthetics
+### Design & Aesthetics
 - **Premium Dark Theme** with vibrant purple/blue gradient accents
 - **Glassmorphism Effects** on navigation and cards
 - **Custom Design System** with CSS variables for consistency
 - **Responsive Desktop Layout** optimized for 1280px+ screens
 
-### ⚡ Components
+### Components
 | Component | Description |
 |-----------|-------------|
 | **Navbar** | Fixed header with glassmorphism, smooth scroll navigation, mobile menu |
@@ -30,14 +30,14 @@ A stunning, contest-winning frontend project built with Next.js, TypeScript, Tai
 | **CTA** | Call-to-action section with animated gradient orbs |
 | **Footer** | Multi-column layout, newsletter signup, social links |
 
-### 🎭 Animations (Framer Motion)
+### Animations (Framer Motion)
 - Page load animations with staggered children
 - Scroll-triggered reveal animations
 - Hover effects on buttons and cards
 - Animated scroll indicator
 - Counter animations for statistics
 
-### ♿ Accessibility (WCAG 2.1)
+### Accessibility (WCAG 2.1)
 - Semantic HTML5 structure (`<header>`, `<main>`, `<section>`, `<footer>`)
 - Skip link for keyboard navigation
 - ARIA labels and roles
@@ -45,7 +45,7 @@ A stunning, contest-winning frontend project built with Next.js, TypeScript, Tai
 - Reduced motion support (`prefers-reduced-motion`)
 - Color contrast compliance
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Version | Purpose |
 |------------|---------|---------|
@@ -55,7 +55,7 @@ A stunning, contest-winning frontend project built with Next.js, TypeScript, Tai
 | Framer Motion | 12.x | Animations |
 | Lucide React | 0.561.x | Icons |
 
-## 📦 Setup Instructions
+## Setup Instructions
 
 ### Prerequisites
 - Node.js 18+ 
@@ -93,7 +93,7 @@ npm start
 npm run lint
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -112,7 +112,7 @@ src/
 │   └── Footer.tsx       # Footer component
 ```
 
-## 💡 Key Design Decisions
+## Key Design Decisions
 
 1. **Dark Theme**: Chosen for modern, premium feel common in SaaS products
 2. **CSS Variables**: Used for maintainable theming and consistency
@@ -120,14 +120,14 @@ src/
 4. **Cubic-bezier Easing**: Custom easing curves for smooth, natural animations
 5. **Component Isolation**: Each section is a self-contained component for reusability
 
-## 🎯 Assumptions Made
+## Assumptions Made
 
 - Desktop-first design (optimized for 1280px+)
 - Modern browser support (Chrome, Firefox, Safari, Edge)
 - Users have JavaScript enabled
 - No backend/API integration required
 
-## ⏱️ Time Spent
+## Time Spent
 
 | Task | Time |
 |------|------|
@@ -140,7 +140,7 @@ src/
 | Documentation | 20 min |
 | **Total** | **~4.5 hours** |
 
-## 🚀 Deployment
+## Deployment
 
 ### Vercel (Recommended)
 
@@ -154,7 +154,3 @@ src/
 2. Import project in [Netlify](https://netlify.com)
 3. Build command: `npm run build`
 4. Publish directory: `.next`
-
----
-
-Built with ❤️ for the Frontend Developer Intern position
